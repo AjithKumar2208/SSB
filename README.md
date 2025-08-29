@@ -55,10 +55,14 @@ Program
 
 OUTPUT WAVEFORM
 
+<img width="1516" height="1010" alt="Screenshot 2025-08-29 175546" src="https://github.com/user-attachments/assets/95db35da-e178-464f-b727-56e2bf8e674e" />
+
+
 TABULATION
 
 
 
+![WhatsApp Image 2025-08-29 at 17 50 49_564e23df](https://github.com/user-attachments/assets/4b058df2-3880-4005-9fa0-ee4309642513)
 
 
 
